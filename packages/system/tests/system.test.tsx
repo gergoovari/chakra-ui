@@ -9,6 +9,7 @@ test("should allow custom should forward props", () => {
     shouldForwardProp: (prop) => !["sample"].includes(prop),
   })
   const { getByTestId } = render(
+    // @ts-expect-error sample not allowed
     <Div sample="testing" isBig="ddf" data-testid="div" />,
   )
   expect(getByTestId("div")).not.toHaveAttribute("sample")
