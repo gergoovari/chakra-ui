@@ -1,5 +1,62 @@
-## 26-01-2022
+## 01-02-2022
 
-**Color Mode** `v1.4.1`
+`@chakra-ui/react@1.8.2`
 
-- Fixed an issue where the ColorModeScript tried to access a non-existent variable
+- allow framer motion v6 as peer dependency
+
+**Cli** `v1.8.0`
+
+- Fixed an internal version number mismatch
+- Increased scan depth for tokens in cli tooling
+
+**Accordion** `v1.4.5`
+
+- allow framer motion v6 as peer dependency
+- fix: add missing peer dependencies
+
+**Checkbox** `v1.6.4`
+
+- allow framer motion v6 as peer dependency
+
+**Menu** `v1.8.5`
+
+- allow framer motion v6 as peer dependency
+
+**Modal** `v1.10.6`
+
+- allow framer motion v6 as peer dependency
+
+**Popover** `v1.11.3`
+
+- allow framer motion v6 as peer dependency
+
+**Switch** `v1.3.4`
+
+- allow framer motion v6 as peer dependency
+- fix: add missing peer dependencies
+
+**Toast** `v1.5.3`
+
+- allow framer motion v6 as peer dependency
+- Fixed an issue where the `useToast` function returned a new object on every
+  render.
+
+**Tooltip** `v1.4.5`
+
+- allow framer motion v6 as peer dependency
+
+**Transition** `v1.4.4`
+
+- allow framer motion v6 as peer dependency
+
+**System** `v1.10.2`
+
+- Disallow props that do not exist in the prop interface
+
+**Anatomy** `v1.2.2`
+
+- fix: add missing peer dependencies
+
+**Skeleton** `v1.2.8`
+
+- fix: add missing peer dependencies
