@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.10.2
+
+### Patch Changes
+
+- [#5195](https://github.com/chakra-ui/chakra-ui/pull/5195)
+  [`78251dab8`](https://github.com/chakra-ui/chakra-ui/commit/78251dab83e34747b719ee746394ec43aeceffef)
+  Thanks [@andrewmtam](https://github.com/andrewmtam)! - Disallow props that do
+  not exist in the prop interface
+
 ## 1.10.1
 
 ### Patch Changes

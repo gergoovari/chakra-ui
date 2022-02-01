@@ -1,5 +1,18 @@
 # Change Log
 
+## 1.2.8
+
+### Patch Changes
+
+- [#5432](https://github.com/chakra-ui/chakra-ui/pull/5432)
+  [`98c5ec2bc`](https://github.com/chakra-ui/chakra-ui/commit/98c5ec2bc37fc0764446c3e4df816131418c14e1)
+  Thanks [@Methuselah96](https://github.com/Methuselah96)! - fix: add missing
+  peer dependencies
+
+- Updated dependencies
+  [[`78251dab8`](https://github.com/chakra-ui/chakra-ui/commit/78251dab83e34747b719ee746394ec43aeceffef)]:
+  - @chakra-ui/system@1.10.2
+
 ## 1.2.7
 
 ### Patch Changes

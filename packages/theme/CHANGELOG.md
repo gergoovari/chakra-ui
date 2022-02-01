@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.13.1
+
+### Patch Changes
+
+- Updated dependencies
+  [[`98c5ec2bc`](https://github.com/chakra-ui/chakra-ui/commit/98c5ec2bc37fc0764446c3e4df816131418c14e1)]:
+  - @chakra-ui/anatomy@1.2.2
+
 ## 1.13.0
 
 ### Minor Changes

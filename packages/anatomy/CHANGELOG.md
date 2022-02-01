@@ -1,5 +1,14 @@
 # @chakra-ui/anatomy
 
+## 1.2.2
+
+### Patch Changes
+
+- [#5432](https://github.com/chakra-ui/chakra-ui/pull/5432)
+  [`98c5ec2bc`](https://github.com/chakra-ui/chakra-ui/commit/98c5ec2bc37fc0764446c3e4df816131418c14e1)
+  Thanks [@Methuselah96](https://github.com/Methuselah96)! - fix: add missing
+  peer dependencies
+
 ## 1.2.1
 
 ### Patch Changes

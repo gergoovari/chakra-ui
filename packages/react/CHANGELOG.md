@@ -1,5 +1,33 @@
 # Change Log
 
+## 1.8.2
+
+### Patch Changes
+
+- [#5499](https://github.com/chakra-ui/chakra-ui/pull/5499)
+  [`f1d024749`](https://github.com/chakra-ui/chakra-ui/commit/f1d02474983dc8277e767dc729abc3cbb02cfe10)
+  Thanks [@noobinthisgame](https://github.com/noobinthisgame)! - allow framer
+  motion v6 as peer dependency
+
+- Updated dependencies
+  [[`f1d024749`](https://github.com/chakra-ui/chakra-ui/commit/f1d02474983dc8277e767dc729abc3cbb02cfe10),
+  [`78251dab8`](https://github.com/chakra-ui/chakra-ui/commit/78251dab83e34747b719ee746394ec43aeceffef),
+  [`6d2affcdd`](https://github.com/chakra-ui/chakra-ui/commit/6d2affcdd390fe013eff684569573200b97e9e88),
+  [`98c5ec2bc`](https://github.com/chakra-ui/chakra-ui/commit/98c5ec2bc37fc0764446c3e4df816131418c14e1)]:
+  - @chakra-ui/accordion@1.4.5
+  - @chakra-ui/checkbox@1.6.4
+  - @chakra-ui/menu@1.8.5
+  - @chakra-ui/modal@1.10.6
+  - @chakra-ui/popover@1.11.3
+  - @chakra-ui/switch@1.3.4
+  - @chakra-ui/toast@1.5.3
+  - @chakra-ui/tooltip@1.4.5
+  - @chakra-ui/transition@1.4.4
+  - @chakra-ui/system@1.10.2
+  - @chakra-ui/skeleton@1.2.8
+  - @chakra-ui/theme@1.13.1
+  - @chakra-ui/provider@1.7.8
+
 ## 1.8.1
 
 ### Patch Changes

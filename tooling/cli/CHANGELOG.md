@@ -1,5 +1,21 @@
 # @chakra-ui/cli
 
+## 1.8.0
+
+### Minor Changes
+
+- [#5472](https://github.com/chakra-ui/chakra-ui/pull/5472)
+  [`5bfb298bc`](https://github.com/chakra-ui/chakra-ui/commit/5bfb298bc01ba49486056a72b040ab0e068dd904)
+  Thanks [@lukasbach](https://github.com/lukasbach)! - Increased scan depth for
+  tokens in cli tooling
+
+### Patch Changes
+
+- [#5486](https://github.com/chakra-ui/chakra-ui/pull/5486)
+  [`4e26a300c`](https://github.com/chakra-ui/chakra-ui/commit/4e26a300caa60b4739e09520a3112802ebe535b9)
+  Thanks [@TimKolberger](https://github.com/TimKolberger)! - Fixed an internal
+  version number mismatch
+
 ## 1.7.1
 
 ### Patch Changes
